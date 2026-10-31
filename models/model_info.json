@@ -1,0 +1,13 @@
+{
+  "best_model": "Logistic Regression",
+  "classes": [
+    "Business",
+    "Science",
+    "Social Science"
+  ],
+  "train_rows": 4334,
+  "test_rows": 1084,
+  "random_state": 42,
+  "text_column": "Abstract",
+  "target_column": "label"
+}

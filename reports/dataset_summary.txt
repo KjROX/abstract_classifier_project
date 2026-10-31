@@ -1,0 +1,8 @@
+Cleaned dataset shape: 5418 rows, 21 columns
+Label counts:
+label
+Science           1984
+Business          1721
+Social Science    1713
+Cleaning: removed empty abstracts, exact duplicate abstracts, and 263 case-insensitive abstracts assigned to multiple labels.
+Source labels: science.csv=Science; socialScience.csv=Social Science; business.csv=Business.
